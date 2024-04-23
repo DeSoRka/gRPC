@@ -1,0 +1,3 @@
+[submodule "internal/lib/loggerr"]
+	path = internal/lib/loggerr
+	url = https://github.com/GolangLessons/sso.git
